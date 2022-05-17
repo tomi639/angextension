@@ -1,0 +1,7 @@
+{
+    "name": "Angular FSM extension",
+    "provider": "ders639",
+    "description": "FSM extenseion with Angular, hosted on github pages",
+    "version": "1.0.0",
+    "icon": "https://raw.githubusercontent.com/tomi639/js-test-extension/master/icon.png"
+}
